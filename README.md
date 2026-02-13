@@ -42,7 +42,6 @@ Final-year **Software Engineering** student at **King Saud University (KSU)**. I
   <a href="https://github.com/officialabdullahsh">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="Github Profile" />
   </a>
-  <img src="https://img.shields.io/badge/Main_Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Top Lang" />
 </p>
 
 ---
