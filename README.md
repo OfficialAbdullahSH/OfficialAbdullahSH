@@ -40,8 +40,8 @@ Final-year **Software Engineering** student at **King Saud University (KSU)**. I
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-alharthi&show_icons=true&theme=tokyonight" alt="Abdullah's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-alharthi&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=officialabdullahsh&show_icons=true&theme=tokyonight" alt="Abdullah's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialabdullahsh&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
 </p>
 
 ---
