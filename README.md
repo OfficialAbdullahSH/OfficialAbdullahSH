@@ -48,8 +48,8 @@ Final-year **Software Engineering** student at **King Saud University (KSU)**. I
 
 ### 📫 Let's Connect!
 <p align="left">
-<a href="https://www.linkedin.com/in/abdullah-alharthi-409650332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdullah Alharthi" height="30" width="40" /></a>
-<a href="mailto:officialabdullahsh1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="officialabdullahsh1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdullah-alharthi-409650332" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abdullah Alharthi" height="30" /></a>
+<a href="mailto:officialabdullahsh1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="officialabdullahsh1" height="30" /></a>
 </p>
 
 ---
