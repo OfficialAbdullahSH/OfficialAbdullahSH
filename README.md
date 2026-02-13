@@ -25,8 +25,6 @@ Final-year **Software Engineering** student at **King Saud University (KSU)**. I
 ### 🚀 Featured Projects
 
 * **[KSU Market 🛒](https://ksumarket.com/landing/)** *A specialized platform for the KSU community. Built with focus on scalability and user interaction.*
-* **[Wodoh (وضوح) 🔍](https://github.com/your-username/wodoh)** *Real-time anonymous feedback system using Spring Boot & React.*
-* **[Thalatha (ثلاثة) 🎙️](https://github.com/your-username/thalatha)** *Podcast web application integrated with YouTube API.*
 
 ---
 
@@ -39,9 +37,12 @@ Final-year **Software Engineering** student at **King Saud University (KSU)**. I
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialabdullahsh&show_icons=true&theme=tokyonight" alt="Abdullah's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialabdullahsh&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+
+<p align="left">
+  <a href="https://github.com/officialabdullahsh">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="Github Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Main_Language-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Top Lang" />
 </p>
 
 ---
